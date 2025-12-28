@@ -67,3 +67,6 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook
+
+## Notebook Report (HTML)
+Full notebook export: [01_eda_germany_real_estate.html](docs/01_eda_germany_real_estate.html)
