@@ -70,3 +70,5 @@ jupyter notebook
 
 ## Notebook Report (HTML)
 Full notebook export: [01_eda_germany_real_estate.html](docs/01_eda_germany_real_estate.html)
+
+Live report (GitHub Pages): https://s4good.github.io/german-real-estate-analysis/01_eda_germany_real_estate.html
