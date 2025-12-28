@@ -43,6 +43,23 @@ Charts are saved in `results/figures/`, for example:
 - `top_10_states_price_per_m2.png`
 - `top_10_cheapest_cities_price_per_m2.png`
 
+## Charts Preview
+
+### Top 10 Most Expensive Cities (Median Price)
+![Top 10 Cities Median Price](results/figures/top_10_cities_median_price.png)
+
+### Top 10 States by Median Price per m²
+![Top 10 States €/m²](results/figures/top_10_states_price_per_m2.png)
+
+### Top 10 Cities by Median Price per m²
+![Top 10 Cities €/m²](results/figures/top_10_cities_price_per_m2.png)
+
+### Top 10 Cheapest Cities (Median Total Price)
+![Top 10 Cheapest Cities Median Price](results/figures/top_10_cheapest_cities_median_price.png)
+
+### Top 10 Cheapest Cities (Median Price per m²)
+![Top 10 Cheapest Cities €/m²](results/figures/top_10_cheapest_cities_price_per_m2.png)
+
 ## How to Run
 ```bash
 cd real_estate_analysis
